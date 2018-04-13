@@ -7,3 +7,14 @@ Note - it is possible that this concept will be too creepy for people not wantin
 - Lawyers to get feedback on their success avoiding surprises when questioning witnesses
 - Anyone interested in analyzing conversation for misunderstandings / missed meaning
 
+Right now I'm envisioning this as a Swift project since I've started tinkering with iPhone app creation.  I also know that CoreML framework should be helpful for implementing some of the models.  I believe that models probably already exist for:
+
+- speech detection
+- speech recognition
+- speaker identification
+- idiom / slang dictionary
+
+I think that the biggest parts of this project will be:
+
+- statement / question correlation model
+- bringing all the pieces together in a good user experience
